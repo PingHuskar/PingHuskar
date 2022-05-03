@@ -1,11 +1,20 @@
 ### Hi There, I am <a  href="https://chadinchaipornpisuth.web.app/">Chadin Chaipornpisuth</a>! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-You can call me "Ping"! I am going to be a senior student from the Faculty of Science and Technology, Suan Dusit University.
+
 [![Linkedin Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)](https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)
 [![Instagram Badge](https://img.shields.io/badge/-PingHuskar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/PingHuskar/)](https://www.instagram.com/PingHuskar)
 [![Youtube Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/channel/UCSd7AnX8-nRJj750iRmclLQ)
 [![Medium Badge](https://img.shields.io/badge/-@ping47024-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ping47024/)](https://medium.com/@ping47024)
 [![Gmail Badge](https://img.shields.io/badge/-ping47024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ping47024@gmail.com)](mailto:ping47024@gmail.com)
-<br><a  href="https://chadinchaipornpisuth.web.app/#/portfolio">My Projects</a>
+
+<a href="https://twitter.com/pinghuskar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pinghuskar?label=Twitter Followers&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+<a href="https://www.youtube.com/channel/UCSd7AnX8-nRJj750iRmclLQ">
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCSd7AnX8-nRJj750iRmclLQ?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCSd7AnX8-nRJj750iRmclLQ?style=for-the-badge&logo=youtube&label=YOUTUBE subscribers">
+</a>
+# 🖥⌨ Most used Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
 # ✨ My Interests
 - Technology
 - Project Management
@@ -46,24 +55,11 @@ You can call me "Ping"! I am going to be a senior student from the Faculty of Sc
 
 # 📖 I'm currently learning from
 - [Udemy](https://www.udemy.com/)
-- [FutureLearn](https://www.futurelearn.com/profiles/16106318)
-- [DataCamp](https://www.datacamp.com/profile/PingHuskar)
-- [Coursera](https://www.coursera.org/user/f5ffae4750f1829b1225bb4d728c619c)
-- [Packt](https://courses.packtpub.com/)
-- Other
-
-# ✅ TODO
+<!-- - [FutureLearn](https://www.futurelearn.com/profiles/16106318) -->
+<!-- - [DataCamp](https://www.datacamp.com/profile/PingHuskar) -->
+<!-- - [Coursera](https://www.coursera.org/user/f5ffae4750f1829b1225bb4d728c619c) -->
+<!-- - [Packt](https://courses.packtpub.com/) -->
 
 # Github & Stackoverflow
 <img src="https://github-readme-stats.vercel.app/api?username=PingHuskar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/13237580"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250"></a>
 |--|--|
-
-# Successful Projects
-- [Tableau Public](https://public.tableau.com/profile/chadin.chaipornpisuth)
-- [IoT From Tinkercad (Class Assignment)](https://www.tinkercad.com/users/fksjv8vqazd-chadin-chaipornpisuth?category=circuits&sort=likes&view_mode=default)
-
-# 👔 Past Events
-- [Google Forms For Power User | กูเกิ้ลฟอร์มเพื่อการใช้งานจริง 5/16/2021](https://sites.google.com/view/dataweekly/events/forms101)
-
-# My Community Contrubution Projects?
-[Giveaway Free Udemy Courses with CouponCode](https://sites.google.com/view/dataweekly/)
