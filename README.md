@@ -15,27 +15,38 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
+## [📌 Projects]
+- [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/pen/RwxYNEg)
+- [Live Chess using chess.com api](https://pinghuskar.github.io/LiveChess/)
+- [Random Technology Quote App](https://splendid-piroshki-c6c01e.netlify.app/)
+
 # ✨ My Interests
 - Technology
+  - Web Development
+  - Data Visualization
+  - Software Development
+- Design
+  - [UX](https://www.9experttraining.com/articles/ux-design-ux-design-คืออะไร)
 - Project Management
 - Education
 - Political
-- Marketing
 
 # 👩🏻‍💻 Techs I have ever used
 - Coding
   - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+    - ![Tailwind](https://tailwindcss.com/favicons/favicon-32x32.png) Tailwind CSS
   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+    - [Reveal](https://revealjs.com/)
 
 - Coding Editor
   - [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
   - <img title="Jupyter Notebook" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">Jupyter Notebook
   - [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
   - <img title="VS Code" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-  - Sublime Text 3
+  - ![Sublime Text 3](https://www.sublimetext.com/favicon.ico)Sublime Text 3
 
 - Business Intelligent (BI) :bar_chart:
   - Qlik
