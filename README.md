@@ -16,7 +16,8 @@
 
 # [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
 ## [📌 Projects]
-- [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/pen/RwxYNEg)
+- [Covid-19 Thailand Daily Report](https://codepen.io/chadin-chaipornpisuth/full/mdpjVap)
+- [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/full/RwxYNEg)
 - [Live Chess using chess.com api](https://pinghuskar.github.io/LiveChess/)
 - [Random Technology Quote App](https://splendid-piroshki-c6c01e.netlify.app/)
 
