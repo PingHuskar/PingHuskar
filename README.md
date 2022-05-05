@@ -16,6 +16,7 @@
 
 # [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
 ## [📌 Projects]
+- [Coin Flip Simulation](https://codepen.io/chadin-chaipornpisuth/full/KKQpbad)
 - [Covid-19 Thailand Daily Report](https://codepen.io/chadin-chaipornpisuth/full/mdpjVap)
 - [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/full/RwxYNEg)
 - [Live Chess using chess.com api](https://pinghuskar.github.io/LiveChess/)
