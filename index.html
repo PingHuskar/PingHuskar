@@ -1,3 +1,113 @@
-<script>
-document.write("Hello World")
-</script>
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="shortcut icon" href="https://unavatar.io/github/pinghuskar" type="image/x-icon">
+		<meta property="og:image" content="https://unavatar.io/github/pinghuskar" />
+		<meta name="description" content="">
+		<title>Chadin Chaipornpisuth</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<!-- <link rel="stylesheet" href="dist/theme/solarized.css"> -->
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+		<style type="text/css">
+			.make-it-pop {
+  filter: drop-shadow(0 0 10px purple);
+}
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<div class="reveal">
+					<div class="slides">
+						<section>
+							<h2>Hello, <span class="fragment">My name is </span></h2>
+							<h2 id='name' class="fragment"></h2>
+						</section>
+						<section>
+							<section>
+								My Learning
+							</section>
+							
+						</section>
+						<section>
+							<section>
+								My Avatar across sites using <a href="https://unavatar.io/">unavatar.io</a>
+							</section>
+							<section>
+								<a href="https://github.com/pinghuskar" target="_blank">
+								<h1>github</h1><img src="https://unavatar.io/github/pinghuskar">
+								</a>
+							</section>
+							<section>
+								<h1>telegram</h1><img src="https://unavatar.io/telegram/pinghuskar">
+							</section>
+							<section>
+								<a href="https://soundcloud.com/pinghuskar" target="_blank">
+								<h1>soundcloud</h1><img src="https://unavatar.io/soundcloud/pinghuskar">
+								</a>
+							</section>
+							<section>
+								<a href="mailto:ping47024@gmail.com" target="_blank">
+								<h2>ping47024@gmail.com</h2><img src="https://unavatar.io/ping47024@gmail.com">
+								</a>
+							</section>
+							<section>
+								<a href="mailto:ping47024@icloud.com" target="_blank">
+								<h2>ping47024@icloud.com</h2><img src="https://unavatar.io/ping47024@icloud.com">
+								</a>
+							</section>
+						</section>
+						<section>
+							<section>
+								My Web Project
+							</section>
+							<section data-background-iframe="https://pinghuskar.github.io/easy-search-app/" data-background-interactive></section>
+							<section data-background-iframe="https://pinghuskar.github.io/Covid-Kalaland/" data-background-interactive></section>
+							<section data-background-iframe="https://pinghuskar.github.io/health-record-app/" data-background-interactive></section>
+						</section>
+						<section>
+							<section>
+								
+							</section>
+						</section>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="js/data.js"></script>
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				autoPlayMedia: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+			Reveal.on( 'make-it-pop', () => {
+			  console.log('✨');
+			} );
+			Reveal.configure({
+  keyboard: {
+    27: () => { console.log('esc') }, // do something custom when ESC is pressed
+    32: 'next', // go to the next slide when the ENTER key is pressed
+    13: 'next' // go to the next slide when the SPACEBAR key is pressed
+  }
+});
+		</script>
+	</body>
+</html>
