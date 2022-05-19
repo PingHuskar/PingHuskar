@@ -14,13 +14,16 @@
 # 🖥⌨ Most used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
+# Projects
+## [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
 ## [📌 Projects]
-- [Coin Flip Simulation](https://codepen.io/chadin-chaipornpisuth/full/KKQpbad)
+<!-- - [Coin Flip Simulation](https://codepen.io/chadin-chaipornpisuth/full/KKQpbad) -->
+- [Design & Create Frontend Sport Shoe Website](https://pinghuskar.github.io/Kipchumba/slide/)
+- [Health Record App](https://pinghuskar.github.io/health-record-app/)
 - [Covid-19 Thailand Daily Report](https://codepen.io/chadin-chaipornpisuth/full/mdpjVap)
 - [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/full/RwxYNEg)
 - [Live Chess using chess.com api](https://pinghuskar.github.io/LiveChess/)
-- [Random Technology Quote App](https://splendid-piroshki-c6c01e.netlify.app/)
+<!-- - [Random Technology Quote App](https://splendid-piroshki-c6c01e.netlify.app/) -->
 
 # ✨ My Interests
 - Technology
@@ -32,6 +35,13 @@
 - Project Management
 - Education
 - Political
+
+# Hobbies
+- [Ingress](https://ingress.com/)
+- [ROV](https://rov.in.th/)
+<!-- - []()
+- []()
+- []() -->
 
 # 👩🏻‍💻 Techs I have ever used
 - Coding
@@ -51,9 +61,9 @@
   - ![Sublime Text 3](https://www.sublimetext.com/favicon.ico)Sublime Text 3
 
 - Business Intelligent (BI) :bar_chart:
-  - Qlik
-  - Tableau
-  - MS Power BI
+  - [Qlik](https://www.qlik.com/us/)
+  - [Tableau](https://www.tableau.com/)
+  - [MS Power BI](https://powerbi.microsoft.com/en/)
   - [Google Data Studio](http://datastudio.google.com/)
 
 - 📋 Forms & Quiz
@@ -68,6 +78,7 @@
 
 # 📖 I'm currently learning from
 - [Udemy](https://www.udemy.com/)
+- [Pluralsight](https://app.pluralsight.com/profile/chadin-chaipornpisut)
 <!-- - [FutureLearn](https://www.futurelearn.com/profiles/16106318) -->
 <!-- - [DataCamp](https://www.datacamp.com/profile/PingHuskar) -->
 <!-- - [Coursera](https://www.coursera.org/user/f5ffae4750f1829b1225bb4d728c619c) -->
