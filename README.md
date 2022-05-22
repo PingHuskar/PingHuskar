@@ -15,17 +15,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
-## [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
+
 ## [📌 Projects]
 <!-- - [Coin Flip Simulation](https://codepen.io/chadin-chaipornpisuth/full/KKQpbad) -->
 - [Design & Create Frontend Sport Shoe Website](https://pinghuskar.github.io/Kipchumba/slide/)
 - [Health Record App](https://pinghuskar.github.io/health-record-app/)
+- [Easy Search App](https://pinghuskar.github.io/easy-search-app/)
 - [Covid-19 Thailand Daily Report](https://codepen.io/chadin-chaipornpisuth/full/mdpjVap)
 - [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/full/RwxYNEg)
 - [Live Chess using chess.com api](https://pinghuskar.github.io/LiveChess/)
 <!-- - [Random Technology Quote App](https://splendid-piroshki-c6c01e.netlify.app/) -->
+## [👀 My Projects](https://chadinchaipornpisuth.web.app/#/portfolio)
 
 # ✨ My Interests
+- New & Trending
+  - Web3/blockchain
 - Technology
   - Web Development
   - Data Visualization
@@ -36,13 +40,6 @@
 - Education
 - Political
 
-# Hobbies
-- [Ingress](https://ingress.com/)
-- [ROV](https://rov.in.th/)
-<!-- - []()
-- []()
-- []() -->
-
 # 👩🏻‍💻 Techs I have ever used
 - Coding
   - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -52,20 +49,21 @@
   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
     - [Reveal](https://revealjs.com/)
+  - [Apps Script](https://developers.google.com/apps-script)
 
 - Coding Editor
   - [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
   - <img title="Jupyter Notebook" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">Jupyter Notebook
   - [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
   - <img title="VS Code" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-  - ![Sublime Text 3](https://www.sublimetext.com/favicon.ico)Sublime Text 3
+  - [![Sublime Text 3](https://www.sublimetext.com/favicon.ico)](https://www.sublimetext.com)
 
 - Business Intelligent (BI) :bar_chart:
-  - [Qlik](https://www.qlik.com/us/)
-  - [Tableau](https://www.tableau.com/)
-  - [MS Power BI](https://powerbi.microsoft.com/en/)
   - [Google Data Studio](http://datastudio.google.com/)
-
+  - [Tableau](https://www.tableau.com/)
+  - [Qlik](https://www.qlik.com/us/)
+  - [MS Power BI](https://powerbi.microsoft.com/en/)
+  
 - 📋 Forms & Quiz
   - [Google Forms](http://forms.google.com/)
   - [Kahoot!](https://kahoot.com/)
@@ -75,6 +73,14 @@
 
 - 📝 Note
   - [Notion](https://www.notion.so/)
+
+# Hobbies
+- [Ingress](https://ingress.com/)
+- [ROV](https://rov.in.th/)
+- [![Chess](https://www.chess.com/bundles/web/favicons/favicon-32x32.c2a8280d.png)](https://www.chess.com/member/pinghuskar)
+<!-- - []()
+- []()
+- []() -->
 
 # 📖 I'm currently learning from
 - [Udemy](https://www.udemy.com/)
