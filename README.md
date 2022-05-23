@@ -1,5 +1,7 @@
 ### Hi There, I am <a  href="https://chadinchaipornpisuth.web.app/">Chadin Chaipornpisuth</a>! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+> If you're Non Tech please checkout by clicking ➜ [**shorter Version !**](https://www.showwcase.com/pinghuskar)
+
 [![Linkedin Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)](https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)
 [![Instagram Badge](https://img.shields.io/badge/-PingHuskar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/PingHuskar/)](https://www.instagram.com/PingHuskar)
 [![Youtube Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/channel/UCSd7AnX8-nRJj750iRmclLQ)
