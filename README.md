@@ -1,6 +1,6 @@
 ### Hi There, I am <a  href="https://chadinchaipornpisuth.web.app/">Chadin Chaipornpisuth</a>! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-> If you're Non Tech please checkout by clicking ➜ [**shorter Version !**](https://www.showwcase.com/pinghuskar)
+> If you're Non Tech please checkout by clicking ➜ [**shorter Version !** (showwcase)](https://www.showwcase.com/pinghuskar)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)](https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)
 [![Instagram Badge](https://img.shields.io/badge/-PingHuskar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/PingHuskar/)](https://www.instagram.com/PingHuskar)
@@ -23,6 +23,7 @@
 - [Design & Create Frontend Sport Shoe Website](https://pinghuskar.github.io/Kipchumba/slide/)
 - [Health Record App](https://pinghuskar.github.io/health-record-app/)
 - [Easy Search App](https://pinghuskar.github.io/easy-search-app/)
+- [รายงานสถานการณ์ โควิด-๑๙](https://zippy-pudding-8ec797.netlify.app/)
 - [Covid-19 Thailand Daily Report](https://codepen.io/chadin-chaipornpisuth/full/mdpjVap)
 - [Random Chess Puzzle with chess.com API](https://codepen.io/chadin-chaipornpisuth/full/RwxYNEg)
 - [Live Chess using chess.com api](https://pinghuskar.github.io/LiveChess/)
@@ -67,6 +68,7 @@
   - [MS Power BI](https://powerbi.microsoft.com/en/)
   
 - 📋 Forms & Quiz
+  - [**Responsive HTML Form Template**](https://pinghuskar.github.io/html-form-template/)
   - [Google Forms](http://forms.google.com/)
   - [Kahoot!](https://kahoot.com/)
   - [Socrative](https://www.socrative.com/)
@@ -77,9 +79,11 @@
   - [Notion](https://www.notion.so/)
 
 # Hobbies
+## Gaming
 - [Ingress](https://ingress.com/)
 - [ROV](https://rov.in.th/)
 - [![Chess](https://www.chess.com/bundles/web/favicons/favicon-32x32.c2a8280d.png)](https://www.chess.com/member/pinghuskar)
+## [Reading](https://www.goodreads.com/user/show/23354440-chadin-chaipornpisuth)
 <!-- - []()
 - []()
 - []() -->
