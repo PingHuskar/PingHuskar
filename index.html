@@ -7,7 +7,22 @@
 		<meta property="og:image" content="https://unavatar.io/github/pinghuskar" />
 		<meta name="description" content="">
 		<title>Chadin Chaipornpisuth</title>
-
+		<style>
+			* {
+				user-select: none;
+			}
+			address {
+				font-size: 18px !important;
+			}
+			.logo {
+				height: 50% !important;
+				max-height: 250px !important;
+			}
+			h1 a {
+				color: black !important;
+				background: rgba(255,255,255, 0.8);
+			}
+		</style>
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<!-- <link rel="stylesheet" href="dist/theme/solarized.css"> -->
@@ -27,38 +42,70 @@
 				<div class="reveal">
 					<div class="slides">
 						<section>
-							<h2>Hello, <span class="fragment">My name is </span></h2>
-							<h2 id='name' class="fragment"></h2>
+							<h2>Hello, <span class="fragment">My name is ...</span></h2>
+						</section>
+						<section data-transition="zoom-in fade-out">
+							<h1 id='name' class="r-fit-text"></h1>
+						</section>
+						<section>
+							<section data-transition="convex-in concave-out">
+								<h1 class="r-fit-text">My Skills</h1>
+							</section>
+							<section data-background-iframe="https://www.showwcase.com/pinghuskar" data-background-interactive>
+							</section>
 						</section>
 						<section>
 							<section>
-								My Learning
+								<h1 class="r-fit-text">My Working Experience</h1>
+							</section>
+							<section data-background="image/MSC_Head-Office.jpg">
+								<a href="https://www.metrosystems.co.th/" target="_blank">
+									<h3 style="color:black;">Metro Systems Corporation</h3>
+									<address>400 Chaloem Phrakiat Ratchakan Thi 9 Rd, Nong Bon, Prawet, Bangkok 10250</address>
+									<img src="image/metrosystems.png" alt="metrosystems" class="logo">
+								</a>
+									<details style="color:wheat; background-color:salmon;">
+										<summary><time>1/65-5/65 (450hr)</time></summary>
+										<p>นักศึกษาฝึกงาน ทำระบบ Automation ด้วย Automation Anywhere, สร้างเว็บไซต์/เว็บแอป</p>
+									</details>
+								
+							</section>
+						</section>
+						<section>
+							<section>
+								<h1 class="r-fit-text">My Learning</h1>
+							</section>
+							
+						</section>
+						<section id="hobby">
+							<section>
+								<h1 class="r-fit-text">My Hobbies</h1>
 							</section>
 							
 						</section>
 						<section>
 							<section>
-								My Avatar across sites using <a href="https://unavatar.io/">unavatar.io</a>
+								<h1 class="r-fit-text">My Avatar across sites using <a href="https://unavatar.io/">unavatar.io</a></h1>
 							</section>
-							<section>
+							<section data-transition="convex">
 								<a href="https://github.com/pinghuskar" target="_blank">
 								<h1>github</h1><img src="https://unavatar.io/github/pinghuskar">
 								</a>
 							</section>
-							<section>
+							<section data-transition="convex">
 								<h1>telegram</h1><img src="https://unavatar.io/telegram/pinghuskar">
 							</section>
-							<section>
+							<section data-transition="convex">
 								<a href="https://soundcloud.com/pinghuskar" target="_blank">
 								<h1>soundcloud</h1><img src="https://unavatar.io/soundcloud/pinghuskar">
 								</a>
 							</section>
-							<section>
+							<section data-transition="convex">
 								<a href="mailto:ping47024@gmail.com" target="_blank">
 								<h2>ping47024@gmail.com</h2><img src="https://unavatar.io/ping47024@gmail.com">
 								</a>
 							</section>
-							<section>
+							<section data-transition="convex">
 								<a href="mailto:ping47024@icloud.com" target="_blank">
 								<h2>ping47024@icloud.com</h2><img src="https://unavatar.io/ping47024@icloud.com">
 								</a>
@@ -66,12 +113,13 @@
 						</section>
 						<section>
 							<section>
-								My Web Project
+								Some of My Web Project
 							</section>
 							<section data-background-iframe="https://pinghuskar.github.io/Kipchumba" data-background-interactive></section>
 							<section data-background-iframe="https://pinghuskar.github.io/easy-search-app/" data-background-interactive></section>
 							<section data-background-iframe="https://pinghuskar.github.io/Covid-Kalaland/" data-background-interactive></section>
 							<section data-background-iframe="https://pinghuskar.github.io/health-record-app/" data-background-interactive></section>
+							<section data-background-iframe="https://pinghuskar.github.io/BankingAccountNo/" data-background-interactive></section>
 						</section>
 						<section>
 							<section>
@@ -82,6 +130,14 @@
 				</div>
 			</div>
 		</div>
+		<script>
+			const myHobbies = ['Playing Chess', 'Reading Books', 'Watching Anime', 'Watching Movies']
+			const hrefHobbies = ['https://www.chess.com/member/pinghuskar','https://www.goodreads.com/user/show/23354440-chadin-chaipornpisuth','https://myanimelist.net/profile/PingHuskar','https://www.imdb.com/user/ur71926161']
+			const bgHobbies = ['https://cdn.hswstatic.com/gif/chess-4.jpg','https://www.incimages.com/uploaded_files/image/1920x1080/getty_655998316_2000149920009280207_354374.jpg','https://i.kym-cdn.com/photos/images/facebook/001/101/046/227.jpg','https://pbi.uii.ac.id/wp-content/uploads/2022/03/Five-Reasons-Why-Watching-Movies-Is-Beneficial-to-Our-Personal-Development.jpg',]
+			for (var i=0;i<myHobbies.length;i++) {
+				document.getElementById('hobby').innerHTML += `<section data-background="${bgHobbies[i]}" data-transition="convex"><h1><a href="${hrefHobbies[i]}" target="_blank">${myHobbies[i]}</a></h1></section>`
+			}
+		</script>
 
 		<script src="js/data.js"></script>
 		<script src="dist/reveal.js"></script>
