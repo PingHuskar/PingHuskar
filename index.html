@@ -22,6 +22,22 @@
 				color: black !important;
 				background: rgba(255,255,255, 0.8);
 			}
+			.bg {
+				display: flex;
+				position: relative;
+				justify-content: center;
+				align-items: center;
+				z-index: 10;
+			}
+			.bg img {
+				display: flex;
+				position: absolute;
+				justify-content: center;
+				align-items: center;
+				min-height: 100vh;
+				z-index: -1000;
+				opacity: 0.3;
+			}
 		</style>
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
@@ -43,9 +59,29 @@
 					<div class="slides">
 						<section>
 							<h2>Hello, <span class="fragment">My name is ...</span></h2>
+							<!-- <div class="bg">
+								<img src="Golden Gate Afternoon.jpg" alt="">
+							</div> -->
 						</section>
 						<section data-transition="zoom-in fade-out">
-							<h1 id='name' class="r-fit-text"></h1>
+							<section>
+								<h1>Name</h1>
+								<h1 id='name' class="r-fit-text"></h1>
+							</section>
+							<section>
+								<h1 class="r-fit-text">Mail</h1>
+								<h1 id="mail" class="r-fit-text"></h1>
+							</section>
+							<section>
+								<h1 class="r-fit-text">Phone</h1>
+								<h1 id="phone" class="r-fit-text"></h1>
+							</section>
+							<section>
+								<h1 class="r-fit-text">Address</h1>
+								<h1 id="address" class="r-fit-text">
+									55 Yeak 1 Soi Sathorn 11 South Sathorn Road Yan Nawa, Sathon, Bangkok 10120
+								</h1>
+							</section>
 						</section>
 						<section>
 							<section data-transition="convex-in concave-out">
@@ -73,7 +109,27 @@
 						</section>
 						<section>
 							<section>
-								<h1 class="r-fit-text">My Learning</h1>
+								<h1 class="r-fit-text">Formal Education</h1>
+							</section>
+							<section>
+								<h1 class="r-fit-text">Bachelor's Degree (2018-2021)</h1>
+								<img src="image/scitech.sdu.png" style="height: 400px; width: auto; max-height: 40vh;">
+								<img src="image/180px-SDU2016.png" style="height: 400px; width: auto; max-height: 40vh;">
+								<h6>Data Science and Analytics, Suan Dusit University, BKK, TH</h6>
+							</section>
+							<section>
+								<h1 class="r-fit-text">Middle – High School (2011-2017)</h1>
+								<a href="https://www.assumption.ac.th/" target="_blank">
+									<img src="https://www.assumption.ac.th/assets/img/aclogo.jpg" alt="โลโก้โรงเรียนอัสสัมชัญ" />
+								</a>
+								<h6>Assumption College, BKK, TH</h6>
+							</section>
+							<section>
+								<h1 class="r-fit-text">Elementary School (2005-2010)</h1>
+								<a href="https://www.acp.ac.th" target="_blank">
+									<img src="https://www.acp.ac.th/wp-content/uploads/2021/11/cropped-logo-w1.png" alt="โลโก้โรงเรียนอัสสัมชัญแผนกประถม" />
+								</a>
+								<h6>Assumption College Primay Section, BKK, TH</h6>
 							</section>
 							
 						</section>
@@ -135,10 +191,11 @@
 				</div>
 			</div>
 		</div>
+		<script src="myinfo.js"></script>
 		<script src="hobby.js"></script>
 		<script src="udemyCertificate.js"></script>
 
-		<script src="js/data.js"></script>
+		<!-- <script src="js/data.js"></script> -->
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
@@ -150,7 +207,7 @@
 			Reveal.initialize({
 				hash: true,
 				autoPlayMedia: true,
-
+				center: true,
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
