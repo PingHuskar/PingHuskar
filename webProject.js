@@ -1,4 +1,6 @@
 const webList = [
+'',
+'https://pinghuskar.github.io/simple-scoreboard',
 'https://fantastic-biscochitos-6543f1.netlify.app/?phone=0857758787',
 'https://pinghuskar.github.io/Kipchumba',
 'https://pinghuskar.github.io/easy-search-app/',
