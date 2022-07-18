@@ -1,4 +1,7 @@
 const webList = [
+'https://sprightly-swan-047780.netlify.app',
+'https://fascinating-bublanina-20c3b1.netlify.app/',
+'https://pinghuskar.github.io/Bell-Music-Player/',
 'https://fluffy-lebkuchen-3e03f8.netlify.app/',
 'https://cosmic-kheer-25ca1c.netlify.app/',
 'https://pinghuskar.github.io/simple-scoreboard',
