@@ -1,6 +1,6 @@
 ### Hi There, I am <a  href="https://chadinchaipornpisuth.web.app/">Chadin Chaipornpisuth</a>! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-> If you're Non Tech please checkout by clicking ➜ [**shorter Version !** (showwcase)](https://www.showwcase.com/pinghuskar)
+> If you're Non Tech ➜ Click  ➜ [**Brief Version !** (Slides)](https://pinghuskar.github.io/PingHuskar)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)](https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)
 [![Instagram Badge](https://img.shields.io/badge/-PingHuskar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/PingHuskar/)](https://www.instagram.com/PingHuskar)
@@ -13,13 +13,20 @@
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCSd7AnX8-nRJj750iRmclLQ?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCSd7AnX8-nRJj750iRmclLQ?style=for-the-badge&logo=youtube&label=YOUTUBE subscribers">
 </a>
-# 🖥⌨ Most used Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# ⌨ Most used Languages & 🖥 Stackoverflow
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://stackoverflow.com/users/story/13237580"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250"></a>
+# Github Stats & Streak
+[![Stats](https://github-readme-stats.vercel.app/api?username=PingHuskar&show_icons=true&theme=radical&include_all_commits=true)](#)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=pinghuskar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+# Trophy
+[![Trophy](https://github-profile-trophy.vercel.app/?username=pinghuskar&column=4&no-frame=true)](#)
 
 # Projects
 
 ## [📌 Projects]
-<!-- - [Coin Flip Simulation](https://codepen.io/chadin-chaipornpisuth/full/KKQpbad) -->
+- [GitHubDevDict](https://tangerine-paletas-ecdc4f.netlify.app/)
+- [Multiplication Table](https://stunning-profiterole-6552d2.netlify.app/)
 - [Design & Create Frontend Sport Shoe Website](https://pinghuskar.github.io/Kipchumba/slide/)
 - [Health Record App](https://pinghuskar.github.io/health-record-app/)
 - [Easy Search App](https://pinghuskar.github.io/easy-search-app/)
@@ -90,12 +97,10 @@
 
 # 📖 I'm currently learning from
 - [Udemy](https://www.udemy.com/)
-- [Pluralsight](https://app.pluralsight.com/profile/chadin-chaipornpisut)
+<!-- - [Pluralsight](https://app.pluralsight.com/profile/chadin-chaipornpisut) -->
 <!-- - [FutureLearn](https://www.futurelearn.com/profiles/16106318) -->
 <!-- - [DataCamp](https://www.datacamp.com/profile/PingHuskar) -->
 <!-- - [Coursera](https://www.coursera.org/user/f5ffae4750f1829b1225bb4d728c619c) -->
 <!-- - [Packt](https://courses.packtpub.com/) -->
 
-# Github & Stackoverflow
-<img src="https://github-readme-stats.vercel.app/api?username=PingHuskar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/13237580"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250"></a>
 |--|--|
