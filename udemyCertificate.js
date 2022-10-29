@@ -78,12 +78,13 @@ const udemyCertificates = [
 var countCertificates = 0
 for (var i of udemyCertificates) {
     console.log(i[0])
-    if (i[0] !== "") {
+    // UC-\w{8}-(\w{4}-){3}\w{12}
+    if (/UC-\w{8}-(\w{4}-){3}\w{12}/.test(i[0])) {
         countCertificates += 1
-    document.getElementById('udemy').innerHTML += `<section data-transition="convex">
-    <a href="https://ude.my/${i[0]}" target="_blank">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/${i[0]}.jpg"></a>
-    </section>`
+        document.getElementById('udemy').innerHTML += `<section data-transition="convex">
+        <a href="https://ude.my/${i[0]}" target="_blank">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/${i[0]}.jpg"></a>
+        </section>`
     }
 }
 document.getElementById("countCertificates").innerText = `${countCertificates} links`
