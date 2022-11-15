@@ -65,6 +65,18 @@ const udemyCertificates = [
 {cID:"UC-5a558997-0856-4dde-98ab-3f62378642a1", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "28/10/2022"},
 {cID:"UC-172b40a4-886d-484b-898d-56d3f3dafe65", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "30/10/2022"},
 {cID:"UC-0b932a65-073c-4ab9-8376-34cae0c7cf56", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "31/10/2022"},
+{cID:"UC-ba2b3b28-1595-4bef-b9cd-2a1d0f35d857", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "31/10/2022"},
+{cID:"UC-b4d5dc42-f6d8-4053-9553-ecf7c2e14a0d", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "01/11/2022", courseName: "JavaScript Variables Lifecycles", createdBy: "Bogdan Stashchuk | Software Engineer, MBA, PhD"},
+{cID:"UC-6aaa0631-e4ef-4cb3-9a56-3b642b52d6a0", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "01/11/2022"},
+{cID:"UC-39c429c4-1820-4b50-9460-dc36fb3fe943", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "01/11/2022", courseName: "Understanding NPM - Node.js Package Manager", createdBy: "Bogdan Stashchuk | Software Engineer, MBA, PhD"},
+{cID:"UC-b6d8c97b-34b4-480e-8318-1c314052bafe", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "02/11/2022", courseName: "Asynchronous JavaScript: Promises, Callbacks, Async Await", createdBy: "Viktor Pyskunov"},
+{cID:"UC-59814b96-7b96-489f-a1ee-5de536440548", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "02/11/2022", courseName: "Ruby Programming For Everyone", createdBy: "John Elder"},
+{cID:"UC-0afceaee-2d15-4b94-8a8a-975348f652f1", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "02/11/2022", courseName: "Ruby For Programmers", createdBy: "Huw Collingbourne"},
+{cID:"UC-1876aeaf-c296-450e-9936-845ff4eec767", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "08/11/2022", courseName: "Deno Js - Beginner Guide [2022]", createdBy: ""},
+{cID:"UC-431b0a4d-7ad7-4581-8309-55a248802876", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "11/11/2022", courseName: "Passive Income Powerhouse: Learn to Set Yourself Up For Life", createdBy: ""},
+{cID:"UC-4f450693-9ecf-46f0-9b75-f30bcb36a87a", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "14/11/2022", courseName: "Personal Finance Masterclass - Easy Guide to Better Finances", createdBy: ""},
+{cID:"UC-3afddfe4-73c4-4578-a37f-b48833004c8c", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "15/11/2022", courseName: "Space-Time and Gravity", createdBy: ""},
+{cID:"UC-70e5d065-ea25-4adb-98f2-8d83a370897d", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "15/11/2022", courseName: "Complete Data Entry Skills Course - Learn Data Entry Skills", createdBy: ""},
 ]
 
 // salsgss activate 7/10/2565 expired 12/31/2565
