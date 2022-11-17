@@ -77,13 +77,19 @@ const udemyCertificates = [
 {cID:"UC-4f450693-9ecf-46f0-9b75-f30bcb36a87a", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "14/11/2022", courseName: "Personal Finance Masterclass - Easy Guide to Better Finances", createdBy: ""},
 {cID:"UC-3afddfe4-73c4-4578-a37f-b48833004c8c", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "15/11/2022", courseName: "Space-Time and Gravity", createdBy: ""},
 {cID:"UC-70e5d065-ea25-4adb-98f2-8d83a370897d", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "15/11/2022", courseName: "Complete Data Entry Skills Course - Learn Data Entry Skills", createdBy: ""},
+{cID:"UC-d8de5919-84ad-488b-bba3-55fd57cd03f7", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "16/11/2022", courseName: "English for IT Professionals", createdBy: ""},
+{cID:"UC-b6c8817b-df53-4a96-92d7-afeb6faf9a83", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "Notability for Teachers & Students", createdBy: "Hans Mundahl"},
+{cID:"UC-021e68e5-dac8-449a-9a62-e333ff9dc316", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
+{cID:"UC-e2705830-b92c-455d-8c6d-4a696a604069", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
+{cID:"UC-83b4bc83-8fe3-4601-aa8f-abe5480fe2ec", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
+{cID:"", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
 ]
 
 // salsgss activate 7/10/2565 expired 12/31/2565
 
 var countCertificates = 0
 for (var i of udemyCertificates) {
-    console.log(i.cID)
+    // console.log(i.cID)
     if (/UC-\w{8}-(\w{4}-){3}\w{12}/.test(i.cID)) {
         countCertificates += 1
         document.getElementById('udemy').innerHTML += `<section data-transition="convex">
