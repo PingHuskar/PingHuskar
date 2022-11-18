@@ -82,7 +82,8 @@ const udemyCertificates = [
 {cID:"UC-021e68e5-dac8-449a-9a62-e333ff9dc316", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
 {cID:"UC-e2705830-b92c-455d-8c6d-4a696a604069", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
 {cID:"UC-83b4bc83-8fe3-4601-aa8f-abe5480fe2ec", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
-{cID:"", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
+{cID:"UC-b78100e9-06a0-4d8f-b0b1-17a85fa289fb", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "18/11/2022", courseName: "Powerful speaking", createdBy: ""},
+{cID:"UC-e49a01ce-4232-4b48-a00e-e3ae16192803", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "18/11/2022", courseName: "Website Localization For Translators", createdBy: ""},
 ]
 
 // salsgss activate 7/10/2565 expired 12/31/2565
