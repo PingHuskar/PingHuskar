@@ -84,13 +84,29 @@ const udemyCertificates = [
 {cID:"UC-83b4bc83-8fe3-4601-aa8f-abe5480fe2ec", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "17/11/2022", courseName: "", createdBy: ""},
 {cID:"UC-b78100e9-06a0-4d8f-b0b1-17a85fa289fb", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "18/11/2022", courseName: "Powerful speaking", createdBy: ""},
 {cID:"UC-e49a01ce-4232-4b48-a00e-e3ae16192803", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "18/11/2022", courseName: "Website Localization For Translators", createdBy: ""},
+{cID:"", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "", courseName: "", createdBy: ""},
+{cID:"UC-6763bd7d-273d-4682-a7d5-c17cbf355ebd", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "14/12/2022", courseName: "Teacher Training: Teach the Perfect Lecture Students Love!", createdBy: ""},
+{cID:"UC-5cc41967-13cb-4284-a6fb-ad0075e78741", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "14/12/2022", courseName: "Getting Started with LESS - Beginner Crash Course", createdBy: ""},
+{cID:"UC-3af4889b-43b6-4ff1-af17-c57ed15de1ba", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "15/12/2022", courseName: "How to Make People Laugh in ANY Speech or Presentation", createdBy: ""},
+{cID:"UC-c35c8ce3-eba0-4069-9ee1-46b415f4b08f", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "19/12/2022", courseName: "Instructional Design for Corporate Learning and Development", createdBy: ""},
+{cID:"UC-d0ef08cd-ac78-4b3f-b5ff-b3c15649a21d", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "20/12/2022", courseName: "Discover Your Life Purpose", createdBy: ""},
+{cID:"UC-f7fca8f7-563e-4103-bd44-8d3960a4605f", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "28/12/2022", courseName: "Strategic Partnerships and Collaborations", createdBy: ""},
+{cID:"UC-fa1a2d8d-37e6-48e2-9522-a4995876c2da", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "28/12/2022", courseName: "How To Remember Everything With Tom Weber", createdBy: ""},
+{cID:"UC-3ea97abf-d45e-4246-9149-b199ec62fb9c", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "30/12/2022", courseName: "Get to Know Your Food: Claims, Labels & Ingredients", createdBy: ""},
+{cID:"UC-987dd568-2cbb-480d-9704-2cc9dc7314e8", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "30/12/2022", courseName: "Landscape Photography Workshop: Inspiration & Tips", createdBy: ""},
+{cID:"UC-2808b7d4-c7a1-4171-a65e-05be0e99fb64", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "31/12/2022", courseName: "Fundamentals of Mindfulness", createdBy: ""},
+{cID:"UC-df20a17b-8e97-40bf-a339-15467990221f", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "31/12/2022", courseName: "CBT for Social Anxiety", createdBy: ""},
+{cID:"UC-feba4ce4-db89-4a81-9d27-2bb3c05a5393", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "31/12/2022", courseName: "Identifying Lessons Learned", createdBy: ""},
+{cID:"UC-a750c90f-3ce2-482f-a233-548e29eb900b", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "31/12/2022", courseName: "Weight Loss And Nutrition: Lose Fat & Get Your Dream Body", createdBy: ""},
+{cID:"UC-d8230192-2c46-4b2d-b6df-3878b605009f", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "2/1/2023", courseName: "Write Better Emails: Tactics for Smarter Team Communication", createdBy: ""},
+{cID:"UC-ab1115e1-dd3b-4cef-82a1-cabe1d4d2649", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "2/1/2023", courseName: "Email Etiquette: Write More Effective Emails At Work", createdBy: ""},
+{cID:"UC-1b4455db-90c4-4ca8-ac4d-c554a841ad36", org: "salsgss", path: "chadin-chaipornpisuth-3", date: "3/1/2023", courseName: "Openlayers 6 From Scratch With A Project", createdBy: ""},
 ]
 
 // salsgss activate 7/10/2565 expired 12/31/2565
 
 var countCertificates = 0
 for (var i of udemyCertificates) {
-    // console.log(i.cID)
     if (/UC-\w{8}-(\w{4}-){3}\w{12}/.test(i.cID)) {
         countCertificates += 1
         document.getElementById('udemy').innerHTML += `<section data-transition="convex">

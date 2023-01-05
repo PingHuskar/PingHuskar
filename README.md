@@ -24,6 +24,29 @@
 
 # Projects
 
+## [Ingress Project]
+- Intel GO WEB
+  - [REPO](https://github.com/PingHuskar/Intel-GO-Web)
+  - [WEB]
+    - [Netlify](https://lustrous-muffin-830396.netlify.app/)
+      - [Train+BRT](https://lustrous-muffin-830396.netlify.app/train)
+      - [National Park](https://lustrous-muffin-830396.netlify.app/nationalpark)
+      - [Keys to Map (PRIME)](https://lustrous-muffin-830396.netlify.app/keystomap/)
+    - [GH Pages](https://pinghuskar.github.io/Intel-GO-Web/)
+- IFS Portal Hunt
+  - [REPO](https://github.com/PingHuskar/IFS-Portal-Hunt)
+  - [WEB]
+    - [Pattaya](https://elaborate-alpaca-cd5c16.netlify.app/pattaya/)
+    - [Tool](https://elaborate-alpaca-cd5c16.netlify.app/tool/)
+- Recharger Ranges
+  - [REPO](https://github.com/PingHuskar/recharger-ranges)
+  - WEB
+    - [Netlify](https://singular-pasca-eac71d.netlify.app/)
+    - [GH Pages](https://pinghuskar.github.io/recharger-ranges/)
+- Intel GO
+  - [REPO](https://github.com/PingHuskar/Intel-GO)
+  - Coming Soon
+
 ## [📌 Projects]
 - [GitHubDevDict](https://tangerine-paletas-ecdc4f.netlify.app/)
 - [Multiplication Table](https://stunning-profiterole-6552d2.netlify.app/)
@@ -88,7 +111,6 @@
 # Hobbies
 ## Gaming
 - [Ingress](https://ingress.com/)
-- [ROV](https://rov.in.th/)
 - [![Chess](https://www.chess.com/bundles/web/favicons/favicon-32x32.c2a8280d.png)](https://www.chess.com/member/pinghuskar)
 ## [Reading](https://www.goodreads.com/user/show/23354440-chadin-chaipornpisuth)
 <!-- - []()
