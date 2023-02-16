@@ -13,12 +13,16 @@
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCSd7AnX8-nRJj750iRmclLQ?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCSd7AnX8-nRJj750iRmclLQ?style=for-the-badge&logo=youtube&label=YOUTUBE subscribers">
 </a>
+
 # ⌨ Most used Languages & 🖥 Stackoverflow
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://stackoverflow.com/users/story/13237580"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250"></a>
+
 # Github Stats & Streak
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pinghuskar&bg_color=ffeccc&color=ff3300&line=ab94ff&point=3700ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Stats](https://github-readme-stats.vercel.app/api?username=PingHuskar&show_icons=true&theme=radical&include_all_commits=true)](#)
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=pinghuskar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 # Trophy
 [![Trophy](https://github-profile-trophy.vercel.app/?username=pinghuskar&column=4&no-frame=true)](#)
 
@@ -125,4 +129,3 @@
 <!-- - [Coursera](https://www.coursera.org/user/f5ffae4750f1829b1225bb4d728c619c) -->
 <!-- - [Packt](https://courses.packtpub.com/) -->
 
-|--|--|
