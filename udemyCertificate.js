@@ -709,14 +709,12 @@ const udemyCertificates = [{
 
 // salsgss chadin-chaipornpisuth-3 activate 7/10/2565 expired 12/31/2565
 
-var countCertificates = 0
 for (let udemyCertificate of udemyCertificates) {
 if (/UC-\w{8}-(\w{4}-){3}\w{12}/.test(udemyCertificate.cID)) {
-    countCertificates += 1
     document.getElementById('udemy').innerHTML += `<section data-transition="convex">
     <a href="https://ude.my/${udemyCertificate.cID}" target="_blank">
     <img src="https://udemy-certificate.s3.amazonaws.com/image/${udemyCertificate.cID}.jpg"></a>
     </section>`
 }
 }
-document.getElementById("countCertificates").innerText = `${countCertificates} links`
+document.getElementById("countCertificates").innerText = `${udemyCertificates.length} links`

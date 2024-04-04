@@ -1,6 +1,6 @@
-### Hi There, I am <a  href="https://chadinchaipornpisuth.web.app/">Chadin Chaipornpisuth</a>! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi There, I am Chadin Chaipornpisuth <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-> If you're Non Tech ➜ Click  ➜ [**Brief Version !** (Slides)](https://pinghuskar.github.io/PingHuskar)
+> About me, [(Slides)](https://pinghuskar.github.io/PingHuskar)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ChadinChaipornpisuth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)](https://www.linkedin.com/in/chadin-chaipornpisuth-108529112/)
 [![Instagram Badge](https://img.shields.io/badge/-PingHuskar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/PingHuskar/)](https://www.instagram.com/PingHuskar)
@@ -16,11 +16,25 @@
 
 # NPM Package
 1. [BahtRext](https://www.npmjs.com/package/bahtrext)
+![version](https://img.shields.io/npm/v/bahtrext.svg)
 ![Download/month](https://img.shields.io/npm/dm/bahtrext.svg)
 ![Total Download](https://img.shields.io/npm/dt/bahtrext.svg)
 2. [SeptiCycle](https://www.npmjs.com/package/septicycle)
+![version](https://img.shields.io/npm/v/septicycle.svg)
 ![Download/month](https://img.shields.io/npm/dm/septicycle.svg)
 ![Total Download](https://img.shields.io/npm/dt/septicycle.svg)
+3. [operation-strint](https://www.npmjs.com/package/operation-strint)
+![version](https://img.shields.io/npm/v/operation-strint.svg)
+![Download/month](https://img.shields.io/npm/dm/operation-strint.svg)
+![Total Download](https://img.shields.io/npm/dt/operation-strint.svg)
+4. [IsDivisibleByX](https://www.npmjs.com/package/isdivisiblebyx)
+![version](https://img.shields.io/npm/v/isdivisiblebyx.svg)
+![Download/month](https://img.shields.io/npm/dm/isdivisiblebyx.svg)
+![Total Download](https://img.shields.io/npm/dt/isdivisiblebyx.svg)
+5. [IsWhiteTile](https://www.npmjs.com/package/iswhitetile)
+![version](https://img.shields.io/npm/v/iswhitetile.svg)
+![Download/month](https://img.shields.io/npm/dm/iswhitetile.svg)
+![Total Download](https://img.shields.io/npm/dt/iswhitetile.svg)
 
 # ⌨ Most used Languages & 🖥 Stackoverflow
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
