@@ -35,10 +35,14 @@
 ![version](https://img.shields.io/npm/v/iswhitetile.svg)
 ![Download/month](https://img.shields.io/npm/dm/iswhitetile.svg)
 ![Total Download](https://img.shields.io/npm/dt/iswhitetile.svg)
+6. [genthaiid](https://www.npmjs.com/package/genthaiid)
+![version](https://img.shields.io/npm/v/genthaiid.svg)
+![Download/month](https://img.shields.io/npm/dm/genthaiid.svg)
+![Total Download](https://img.shields.io/npm/dt/genthaiid.svg)
 
 # ⌨ Most used Languages & 🖥 Stackoverflow
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://stackoverflow.com/users/story/13237580"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250"></a>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250">
 
 # Github Stats & Streak
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pinghuskar&bg_color=ffeccc&color=ff3300&line=ab94ff&point=3700ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
@@ -155,4 +159,4 @@
 <!-- - [DataCamp](https://www.datacamp.com/profile/PingHuskar) -->
 <!-- - [Coursera](https://www.coursera.org/user/f5ffae4750f1829b1225bb4d728c619c) -->
 <!-- - [Packt](https://courses.packtpub.com/) -->
-
+- Books
