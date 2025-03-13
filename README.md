@@ -1,4 +1,5 @@
 ### Hi There, I am Chadin Chaipornpisuth <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+![](https://komarev.com/ghpvc/?username=PingHuskar&label=PROFILE+VIEWS)
 > Get to know, [(Click)](https://xn--b3cis8b2a3gzd.xn--o3cw4h/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
