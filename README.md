@@ -7,7 +7,3 @@
 
 ## Repo TierList
 ![Tier List](https://tierhub.vercel.app/tier-image?username=PingHuskar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinghuskar&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=13237580&theme=dark" height="250">
-[![Stats](https://github-readme-stats.vercel.app/api?username=PingHuskar&show_icons=true&theme=radical&include_all_commits=true)](#)
