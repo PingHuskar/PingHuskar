@@ -7,3 +7,10 @@
 
 ## Repo TierList
 ![Tier List](https://tierhub.vercel.app/tier-image?username=PingHuskar)
+
+## Profile Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PingHuskar&theme=midnight_purple&animation=stagger&duration=1&name=ChadinDev)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PingHuskar&theme=midnight_purple&animation=stagger&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PingHuskar&theme=midnight_purple&animation=stagger&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PingHuskar&theme=midnight_purple&animation=stagger&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PingHuskar&theme=midnight_purple&animation=stagger&duration=1&utcOffset=7)
